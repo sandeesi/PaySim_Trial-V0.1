@@ -1,0 +1,5 @@
+Steps to follow while installing the Tomcat server:
+
+1. Create a folder named ApacheSoftwareFoundation on C: drive and paste the unzipped content of the "tomcat-7.01.12.zip" file.
+
+2. Change the JAVA_HOME value in the Environment Variables to jdk1.7.
